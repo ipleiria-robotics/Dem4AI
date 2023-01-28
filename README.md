@@ -1,6 +1,8 @@
 # Dem4AI
 Demonstrador de Inteligência Artificial para Sistema Ciber Físico baseado em Arduino
 
+Este repositório explica com funciona a Inteligência Artificial de um precetão até uma rede neural profunda.
+
 
 # Autores
  
