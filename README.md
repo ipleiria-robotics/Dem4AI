@@ -5,6 +5,8 @@ Este repositório explica com funciona a Inteligência Artificial de um precetã
 
 
 
+![Inteligência Artificial](https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=8f17d617-5115-442d-be6d-1839e786d46e&w=800&h=450&t=20221225215537)
+
 
 # Índice
 
