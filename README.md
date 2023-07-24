@@ -1,7 +1,7 @@
 # Dem4AI
 Demonstrador de Inteligência Artificial para Sistema Ciber Físico baseado em Arduino
 
-Este repositório explica com funciona a Inteligência Artificial, desde o conceito um perceptrão até uma rede neural profunda.
+Este repositório visa apresentar uma introdução à Inteligência Artificial, referindo e explicando conceitos mais básicos, como um perceptrão, até elementos mais avançados, como o funcionamento de uma rede neuronal.
 
 
 
