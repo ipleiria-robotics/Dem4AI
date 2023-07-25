@@ -12,9 +12,12 @@ Este repositório visa apresentar uma introdução à Inteligência Artificial, 
 
 -> **Aula** ![1. Introdução à Inteligência Artificial](https://github.com/ipleiria-robotics/Dem4AI/blob/main/1_Documenta%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.pdf).
 
+-> **Aula** ![2. Redes Neuronais](https://github.com/ipleiria-robotics/Dem4AI/blob/main/1_Documenta%C3%A7%C3%A3o/Redes%20Neuronais.pdf).
+
+
 # Autores
  
- - Luís Conde - Professor - ![conde-ISR-UC-PT](https://github.com/conde-ISR-UC-PT)
+ - Luís Conde - Orientador - ![conde-ISR-UC-PT](https://github.com/conde-ISR-UC-PT)
  
  - Francisco Guarda - Aluno - ![franciscoalguarda]()
  - Samuel Lourenço  - Aluno - ![SamueLourenc0](https://github.com/SamueLourenc0)
