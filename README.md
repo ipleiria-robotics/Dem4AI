@@ -11,7 +11,7 @@ Este repositório visa apresentar uma introdução à Inteligência Artificial, 
 # Índice
 
 -> **Aula** ![1. Introdução à Inteligência Artificial](https://github.com/ipleiria-robotics/Dem4AI/blob/main/1.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.pptx)
-
+-> **Aula** ![1. Introdução à Inteligência Artificial](https://github.com/ipleiria-robotics/Dem4AI/blob/main/1_Documenta%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.pdf).
 
 # Autores
  
