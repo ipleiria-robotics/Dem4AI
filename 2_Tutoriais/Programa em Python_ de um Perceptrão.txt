@@ -1,0 +1,58 @@
+
+
+------------------------------------------------------------------Codigo--------------------------------------------------------------------------------- 
+import pylab
+from matplotlib import gridspec
+from sklearn.datasets import make_classification
+import numpy as np
+from ipywidgets import interact, interactive, fixed
+import ipywidgets as widgets
+import pickle
+import os
+import gzip
+
+# pick the seed for reproducability - change it to explore the effects of random variations
+np.random.seed(1)
+import random
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+Importar as bibliotecas 
+
+
+------------------------------------------------------------------Codigo--------------------------------------------------------------------------------- 
+n = 10
+X = np.array( [[0.93,0.22], [0.74,0.61], [0.83,0.85], [0.91,0.2], [0.63,0.9], [0.71,0.84], [0.73, 0.38], [0.53,0.68], [0.62,0.71], [0.81,0.29]] )
+Y = np.array( [[-1], [1], [-1], [-1], [1], [1], [-1], [1], [1], [-1] ] )
+
+# Split the dataset into training and test
+train_x, test_x = np.split(X, [ n*8//10])
+train_labels, test_labels = np.split(Y, [n*8//10])
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+A variavel "n=10" porque a matiz tem 10 linha e o "n" vais ser usado para divider a matriz "X" e"Y". 
+No codigo a cima a variavel "X" é uma matiz com 10 linhas e 2 colunas (coluna 1 é a massa e a 2 é a forma das frutas).
+A variavel "Y" é uma matriz com 1 linhas e 1 colunas (em cada linha tem 1 ou -1 onde 1 representa banama e -1 maçã)
+Depois é dividido os dados em dois, 80% para treinamento que é armazenado nas variáveis "train_x" e "train_labels" os 20% é para teste que é armazenado nas variáveis "test_x" e "test_labels".
+
+Comandos usados:
+np.array -> Comando usado para cria matriz
+np.split -> Comando usado para dividir a matriz
+
+
+------------------------------------------------------------------Codigo--------------------------------------------------------------------------------- 
+def plot_dataset(suptitle, features, labels):
+    # prepare the plot
+    fig, ax = pylab.subplots(1, 1)
+    #pylab.subplots_adjust(bottom=0.2, wspace=0.4)
+    fig.suptitle(suptitle, fontsize = 16)
+    ax.set_xlabel('$x_i[0]$ -- (feature 1)')
+    ax.set_ylabel('$x_i[1]$ -- (feature 2)')
+
+    colors = ['r' if l>0 else 'b' for l in labels]
+    ax.scatter(features[:, 0], features[:, 1], marker='o', c=colors, s=100, alpha = 0.5)
+    fig.show()
+
+plot_dataset('Training data', train_x, train_labels)
+
+
+
