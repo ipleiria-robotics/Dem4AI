@@ -9,11 +9,11 @@ Este projeto tem como objetivo fornecer uma introdução acessível à Inteligê
 
 -> ![1. Introdução à Inteligência Artificial](https://github.com/ipleiria-robotics/Dem4AI/blob/main/1_Documentos/Dem4AI%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.pdf).
 
-Neste documento em PDF, fazemos uma abordagem mais simples do que é a inteligência artificial, começando com apenas um perceptrão e os conceitos básicos.
+- Neste documento em PDF, fazemos uma abordagem mais simples do que é a inteligência artificial, começando com apenas um perceptrão e os conceitos básicos.
 
 
-Falar sobre o codiigo 
-exemplos e tutorias 
+- Falar sobre o codiigo 
+- exemplos e tutorias 
 
 
 
