@@ -1,11 +1,8 @@
 # Dem4AI
 Demonstrador de Inteligência Artificial para Sistema Ciber Físico baseado em Arduino
 
-Este repositório visa apresentar uma introdução à Inteligência Artificial, referindo e explicando conceitos mais básicos, como um perceptrão, até elementos mais avançados, como o funcionamento de uma rede neuronal.
 
-
-
-![Inteligência Artificial](https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=8f17d617-5115-442d-be6d-1839e786d46e&w=800&h=450&t=20221225215537)
+Este projeto tem como objetivo fornecer uma introdução acessível à Inteligência Artificial (IA) para alunos do 9º e 12º ano e demais. Começa com documentação que aborda uns dos principais conceitos tais como perceptrão, retropropagação, taxa de aprendizagem e tipos de redes neurais. Além disso, oferece informações sobre como esses conceitos funcionam na prática.
 
 
 # Índice
