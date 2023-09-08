@@ -35,4 +35,4 @@ Este documento aborda as Redes Neuronais Profundas (DNNs) e quatro tipos de rede
 -> Redes Convolucionais
 -> Redes Autoencoder
 
-Para uma melhor intrepretação dos calculos do slide 41 até 57 é possiver ver um codigo em Python no ![Colab](https://colab.research.google.com/drive/1WsSyjNaYudU-O8wN9NeQIvvTlRQVzJW7).Se desejarem, o código fonte encontra-se na pasta ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb).
+Para uma melhor intrepretação dos calculos do slide 41 até 57 é possiver ver um codigo em Python no ![Colab](https://colab.research.google.com/drive/1WsSyjNaYudU-O8wN9NeQIvvTlRQVzJW7). Se desejarem, o código fonte encontra-se na pasta ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb).
