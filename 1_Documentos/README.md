@@ -1,8 +1,25 @@
-# Dem4AI
-Demonstrador de Inteligência Artificial para Sistema Ciber Físico baseado em Arduino
+# Dem4AI - Introdução à Inteligência Artificial
+
+Este documento faz uma introdução da Inteligência Artificial, fala sobre os varios componentes que a contituem e fornecendo exemplos de aplicações práticas. Ele também apresenta um exemplo ilustrativo de como a IA (toma decisões).
+Tendo uma descreve da arquitetura de um neurônio artificial, abordando conceitos como entradas, pesos, perceptrons, sinais de saída e bias etc. 
 
 
-Este projeto tem como objetivo fornecer uma introdução acessível à Inteligência Artificial (IA) para alunos do 9º e 12º ano e demais. Começa com documentação que aborda uns dos principais conceitos tais como perceptrão, retropropagação, taxa de aprendizagem e tipos de redes neurais. Além disso, oferece informações sobre como esses conceitos funcionam na prática.
+Introdução à Inteligência Artificial:
+
+    Definição da Inteligência Artificial.
+    Exemplos de aplicações da Inteligência Artificial.
+    Exemplo ilustrativo de como a IA toma decisões.
+
+Neurônio Biológico e Artificial:
+
+    Arquitetura de um neurônio artificial.
+    Compreensão do que é uma entrada.
+    Explicação do conceito de peso em neurônios artificiais.
+    Descrição do perceptron e sua função.
+    Definição do sinal de saída em neurônios artificiais.
+    Entendimento do papel do bias.
+    Explicação da função de ativação em redes neurais.
+    Importância da retropropagação no treinamento de redes neurais.
 
 
 # Gia 
