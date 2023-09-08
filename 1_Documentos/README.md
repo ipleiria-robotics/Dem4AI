@@ -1,4 +1,4 @@
-# Dem4AI - Introdução à Inteligência Artificial
+# ![Dem4AI - Introdução à Inteligência Artificial](https://github.com/ipleiria-robotics/Dem4AI/blob/main/1_Documentos/Dem4AI%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.pdf)
 
 Este documento faz uma introdução da Inteligência Artificial, fala sobre os varios componentes que a contituem e fornecendo exemplos de aplicações práticas. Ele também apresenta um exemplo ilustrativo de como a IA (toma decisões).
 Tendo uma descreve da arquitetura de um neurônio artificial, abordando conceitos como entradas, pesos, perceptrons, sinais de saída e bias etc. 
