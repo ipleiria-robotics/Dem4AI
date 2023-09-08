@@ -11,9 +11,9 @@ Tendo uma descreve da arquitetura de um neurônio artificial, abordando conceito
 -> Exemplos de aplicações da Inteligência Artificial.
 -> Exemplo ilustrativo de como a IA toma decisões.
 
--Neurônio Biológico e Artificial:
+- Neurônio Biológico e Artificial:
 
--> Arquitetura de um neurônio artificial.
+-> Arquitetura de um neurônio artificial. \n \r
 -> Compreensão do que é uma entrada.
 -> Explicação do conceito de peso em neurônios artificiais.
 -> Descrição do perceptron e sua função.
