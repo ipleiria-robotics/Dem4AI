@@ -23,4 +23,13 @@ Tendo uma descreve da arquitetura de um neurônio artificial, abordando conceito
 -> Importância da retropropagação no treinamento de redes neurais.
 
 
-# Dem4AI - Introdução à Inteligência Artificial
+# ![Dem4AI - Introdução à Inteligência Artificial]()
+
+Este documento aborda as Redes Neuronais Profundas (DNNs) e quatro tipos de redes neurais. Ele começa explicando o que são as DNNs, fornecendo um exemplo prático.
+
+**Em seguida, o documento aborda quatro tipos de redes neurais:**
+
+-> Redes Feedforward 
+-> Redes Recorrentes
+-> Redes Convolucionais
+-> Redes Autoencoder
