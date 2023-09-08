@@ -22,7 +22,7 @@ Tendo uma descreve da arquitetura de um neurônio artificial, abordando conceito
 -> Explicação da função de ativação em redes neurais.
 -> Importância da retropropagação no treinamento de redes neurais.
 
-No capítulo 3 - Programa em Python(slide 53), como o nome diz, é um programa em Python que é possível testar no # ![Colab](https://colab.research.google.com/drive/1JCPxj_SKW8FbKyXmfAfIugp1sqvmx5mH?authuser=2#scrollTo=Gmw9p9moiodW). Se desejarem, o código fonte encontra-se na pasta ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb).
+No capítulo 3 - Programa em Python(slide 53), como o nome diz, é um programa em Python que é possível testar no ![Colab](https://colab.research.google.com/drive/1JCPxj_SKW8FbKyXmfAfIugp1sqvmx5mH?authuser=2#scrollTo=Gmw9p9moiodW). Se desejarem, o código fonte encontra-se na pasta ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb).
 
 # ![Dem4AI - Introdução à Inteligência Artificial]()
 
@@ -34,3 +34,5 @@ Este documento aborda as Redes Neuronais Profundas (DNNs) e quatro tipos de rede
 -> Redes Recorrentes
 -> Redes Convolucionais
 -> Redes Autoencoder
+
+Para uma melhor intrepretação dos calculos 
