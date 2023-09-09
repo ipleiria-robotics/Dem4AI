@@ -1,17 +1,8 @@
-# Dem4AI
-Demonstrador de Inteligência Artificial para Sistema Ciber Físico baseado em Arduino
+# ![Dem4AI-Classificação das frutas Maçã e Banana](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb)
+
+Este código em Python demonstra uma aplicação simples onde é utilizada a inteligência artificial, sendo possível testá-lo no  ![Colab](https://colab.research.google.com/drive/1JCPxj_SKW8FbKyXmfAfIugp1sqvmx5mH?authuser=2#scrollTo=Gmw9p9moiodW). Se desejarem, o código fonte encontra-se na pasta ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb).
 
 
-Este projeto tem como objetivo fornecer uma introdução acessível à Inteligência Artificial (IA) para alunos do 9º e 12º ano e demais. Começa com documentação que aborda uns dos principais conceitos tais como perceptrão, retropropagação, taxa de aprendizagem e tipos de redes neurais. Além disso, oferece informações sobre como esses conceitos funcionam na prática.
+# ![Dem4AI-RETROPROPAGAÇÃO](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/Dem4AI_RETROPROPAGACAO.ipynb)
 
-
-# Gia 
-
--> ![1. Introdução à Inteligência Artificial](https://github.com/ipleiria-robotics/Dem4AI/blob/main/1_Documentos/Dem4AI%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.pdf).
-
-- Neste documento em PDF, fazemos uma abordagem mais simples do que é a inteligência artificial, começando com apenas um perceptrão e os conceitos básicos.
-
-
-- Falar sobre o codiigo 
-- exemplos e tutorias 
-
+Este código em Python demonstra uma aplicação simples onde a retropropagação é utilizada em uma rede neural para ajustar os pesos e o bias, sendo possível testá-la no ![Colab](https://colab.research.google.com/drive/1WsSyjNaYudU-O8wN9NeQIvvTlRQVzJW7). Se desejarem, o código fonte encontra-se na pasta ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb).
