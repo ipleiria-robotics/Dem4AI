@@ -6,9 +6,9 @@ Este primeiro documento documento faz uma introdução a conceitos mais simples 
 
 - Introdução à Inteligência Artificial:
 
--> Definição da Inteligência Artificial.
+- Definição da Inteligência Artificial.
 
--> Exemplos de aplicações da Inteligência Artificial.
+- Exemplos de aplicações da Inteligência Artificial.
 
 -> Arquitetura de um neurónio artificial. 
 
