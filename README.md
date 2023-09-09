@@ -9,11 +9,22 @@ Este projeto tem como objetivo fornecer uma introdução acessível à Inteligê
 
 Este projeto esta dividido em 3 partes:
 
+- ![1_Documentos](https://github.com/ipleiria-robotics/Dem4AI/tree/main/1_Documentos)
+
+Nesta parte, estão disponíveis dois documentos em PDF. Um deles introduz o conceito de inteligência artificial, enquanto o outro aborda redes neurais.
+
+- ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/tree/main/2_Demonstracao)
+
+Nesta pasta, você encontrará dois códigos em Python que podem ser testados no Colab. O objetivo é facilitar a compreensão do funcionamento de uma rede neural.
+
+- ![3_Tutoriais_Exemplos]([3_Tutoriais_Exemplos](https://github.com/ipleiria-robotics/Dem4AI/tree/main/3_Tutoriais_Exemplos)
+
+Nesta pasta, está disponível um documento em PDF com dois exemplos de aplicações práticas que utilizam inteligência artificial.
 
 
 
--> ![2. Redes Neuronais](https://github.com/ipleiria-robotics/Dem4AI/blob/main/1_Documentos/Dem4AI%20-%20Redes%20Neuronais.pdf).
 
+**Cada pasta contém uma explicação mais detalhada.**
 
 
 
