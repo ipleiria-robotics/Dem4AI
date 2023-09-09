@@ -10,21 +10,21 @@ Este primeiro documento documento faz uma introdução a conceitos mais simples 
 
 - Exemplos de aplicações da Inteligência Artificial.
 
--> Arquitetura de um neurónio artificial. 
+- Arquitetura de um neurónio artificial. 
 
--> Compreensão do que é uma entrada.
+- Compreensão do que é uma entrada.
 
--> Explicação do conceito de peso num perceptrão.
+- Explicação do conceito de peso num perceptrão.
 
--> Descrição do perceptrão e sua função.
+- Descrição do perceptrão e sua função.
 
--> Definição do sinal de saída em perceptrões.
+- Definição do sinal de saída em perceptrões.
 
--> Entendimento do papel do bias.
+- Entendimento do papel do bias.
 
--> Explicação da função de ativação em redes neurais.
+- Explicação da função de ativação em redes neurais.
 
--> Importância da retropropagação no treino de redes neuronais.
+- Importância da retropropagação no treino de redes neuronais.
 
 No capítulo 3 - Programa em Python(slide 53), como o nome diz, é um programa em Python que é possível testar no ![Colab](https://colab.research.google.com/drive/1JCPxj_SKW8FbKyXmfAfIugp1sqvmx5mH?authuser=2#scrollTo=Gmw9p9moiodW). O código fonte encontra-se na pasta ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb).
 
@@ -34,12 +34,12 @@ Neste segundo documento são abordadas as Redes Neuronais Profundas (DNNs).
 
 **As redes neuronais abordadas no documento são as seguintes:**
 
--> Redes Feedforward 
+- Redes Feedforward 
 
--> Redes Recorrentes
+- Redes Recorrentes
 
--> Redes Convolucionais
+- Redes Convolucionais
 
--> Redes Autoencoder
+- Redes Autoencoder
 
 Para uma melhor intrepretação dos cálculos do slide 41 a 57 é possivel ver um codigo em Python no ![Colab](https://colab.research.google.com/drive/1WsSyjNaYudU-O8wN9NeQIvvTlRQVzJW7). O código fonte encontra-se na pasta ![2_Demonstração](https://github.com/ipleiria-robotics/Dem4AI/blob/main/2_Demonstracao/DEM4AI_Classifica%C3%A7%C3%A3o_das_frutas_Ma%C3%A7%C3%A3_Banana.ipynb).
