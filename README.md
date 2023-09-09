@@ -17,7 +17,7 @@ Nesta parte, estão disponíveis dois documentos em PDF. Um deles introduz o con
 
 Nesta pasta, você encontrará dois códigos em Python que podem ser testados no Colab. O objetivo é facilitar a compreensão do funcionamento de uma rede neural.
 
-- ![3_Tutoriais_Exemplos]([3_Tutoriais_Exemplos](https://github.com/ipleiria-robotics/Dem4AI/tree/main/3_Tutoriais_Exemplos)
+- ![3_Tutoriais_Exemplos](https://github.com/ipleiria-robotics/Dem4AI/tree/main/3_Tutoriais_Exemplos)
 
 Nesta pasta, está disponível um documento em PDF com dois exemplos de aplicações práticas que utilizam inteligência artificial.
 
